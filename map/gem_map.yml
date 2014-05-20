@@ -1,0 +1,10 @@
+---
+module:
+  name: "ui.select2'"
+uis:
+  - name: ui-select2
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
